@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VarunMurthy-01/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/VarunMurthy-01/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/VarunMurthy-01/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/VarunMurthy-01/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -76,15 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VarunMurthy-01/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VarunMurthy-01/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/VarunMurthy-01/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VarunMurthy-01/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
